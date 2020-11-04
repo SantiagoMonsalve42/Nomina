@@ -30,7 +30,7 @@ if(isset($_POST['tamano'])){?>
 <table style="border-radius:15px;" class='table table-dark'><!-creacion de una tabla para mostrar los datos que llegaron->
 <thead>
   <tr><!-se establecen cuales seran las cabeceras de la tabla, las cuales usaremos de referencia para mostrar nuestros datos->
-    <th scope='col'>NOMBRE</th>
+    <th scope='col'>FULL NAME</th>
     <th scope='col'>SUELDO</th>
     <th scope='col'> H.EXTRA</th>
     <th scope='col'>COMISION</th>
